@@ -10,12 +10,25 @@ Problem 2
 
 
 
+
+
+
 here we have an array of random numbers, next using let we declare a variable and assign the first number in the array as the largest number, then we use a simple for loop to iterate through each element of the array, and using the if statement we check whether the next elements in the array is greater than the largest number variable that we declared, if yes the values are swapped, as the loop runs javascript arranges the array in descending order, finally the result is displayed in the console.
 
 
 
 
 Problem 3 
+
+
+first using const we declare an array of numbers, then using let we declare a variable 'sum' and set it to 0, then using a simple for loop we iterate through each element of the array and add the values to the sum variable, finally the result get displayed in the console, it is very important that we declare the sum variable and assign zero to it beforehand, this tells javascript what type of data we want it to process, not declaring sum would result in an error saying undefined.
+
+
+
+
+Problem 4
+
+
 
 
 
