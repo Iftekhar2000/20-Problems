@@ -2,3 +2,20 @@ Problem 1
 
 
 
+first we have an array of random numbers, then using let we declar that the first elememt of the array is the smallest number, next we use a simple for loop to iterate through each element of the array and uaing the if statement we are checking whethersmallest number is greater than the next number in the array, if yes the numbers are swapped, as the loop runs each element is checked,finally javascripts display the result in ascending order in the console.
+
+
+
+Problem 2
+
+
+
+here we have an array of random numbers, next using let we declare a variable and assign the first number in the array as the largest number, then we use a simple for loop to iterate through each element of the array, and using the if statement we check whether the next elements in the array is greater than the largest number variable that we declared, if yes the values are swapped, as the loop runs javascript arranges the array in descending order, finally the result is displayed in the console.
+
+
+
+
+Problem 3 
+
+
+
