@@ -82,6 +82,15 @@ Problem 10
 
 
 
+in this problem we have an array of random numbers, then we have a variable called target, using nested loops we are iterating over the elements in the array to find a pair of numbers which add up to the target number, the if statement checks for one element from loop one and another element from looptwoo then after adding up if the sum equals the target the pair is the displayed in the console.
+
+
+
+
+Problem 11
+
+
+
 
 
 
