@@ -29,6 +29,61 @@ first using const we declare an array of numbers, then using let we declare a va
 Problem 4
 
 
+first we declare an array of strings, then we declare and empty array called first letters, then using a simple for loop we iterate throgh each string element in the array, using the push method we take the first letters of each string and inject them into our firsst letters empty string, finally the console will display an array with the first letters of each word
+
+
+
+
+Problem 5
+
+
+first we declare an array of number, then we declare and empty array, next we use a simple for loop to iterate through each element of the array, in the loop we use an if statement to check if an element is divisible by 2, if yes we push the element into our new array, finally we displaythwe result in the console.
+
+
+
+
+Problem 6
+
+
+
+we start with an array of strings, then we using a variable we declare that the first piece of string in the array is the longest string, then we use a simple for loop to iterate through each string element of the array, using an if statement we check if the length of our first longeststring is less than the length of the next string element in the array, if yes the longeststring gets swapped, the loop runs and processes every element this way, finally the longest string gets displayed in the console.
+
+
+
+Problem 7
+
+
+
+
+here we have an array of numberrs, then we declare a variable 'sum' and assign a value of 0 to it, then we use a simple for loop to iterate through eaach element of the array, as we proceed the numbers get added into the sum variable, then we divide the sum using the sum.length method, this gives us the average value of the elements in the array, the result is then displayed in the console.
+
+
+
+
+Problem 8
+
+
+
+
+here we have an array of random strings, we use the sort method to arrange the elements in alphabetical order and display it in the console.
+
+
+
+
+Problem 9
+
+
+here we have an array of numbers, the array includes duplicates of same numbers, using the spread operator and new Set method we are generating a new array without duplicates
+
+
+
+Problem 10
+
+
+
+
+
+
 
 
 
