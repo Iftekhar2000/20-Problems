@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Javascript Practice</title>
+</head>
+<body>
+
+
+    
+    <script>
+     
+
+      const products = [
+        { name: "iPhone", price: 999},
+        { name: "MacBook", price: 1499},
+        { name: "AirPods", price: 249},
+      ];
+
+      const currencyExchangeRate = 0.85;
+      const currencySymbol = '£'
+
+      const productsInPounds = products.map(product => ({
+        name: product.name,
+        price: product.price * currencyExchangeRate,
+        formattedPrice: `${currencySymbol}${(product.price * currencyExchangeRate).toFixed(2)}`
+      }))
+
+      console.log(productsInPounds);
+
+    </script>
+
+
+</body>
+</html>
+
