@@ -95,4 +95,82 @@ Problem 11
 
 
 
+Problem 13
+
+
+here we have an array of numbers called temperature, next we declare a second variable called 'formattedtemperature' and then use this variable to run the map method on the array, within the the map method we write a function that converts the elements in the array from degree celcius to fahrenheit, then the result is displayed in the console, the tofixed method is used to round the values from the calculation to one decimal place.
+
+
+
+
+
+Problem 14
+
+
+
+
+
+here we have an array called videos containing two video objects, then we declared a function to increment view count, in this function we first target the id of the video object using video.find method, then we write a code to increment the number of views by one each time the function is invoked, then using template literals we add some atrings to the calculated value before displaying the result in the console,
+
+
+in the second function like before we first write a variable to target video object, then we use the push method to add a new comment into the video object,
+
+
+both function are accessible using arguments which can be declared later.
+
+
+
+
+
+
+Problem 15
+
+
+
+
+
+
+Problem 16
+
+
+
+
+in this problem we have an array of numbers, a target value and an empty array, then using nested loops we iterate through the array to find a pair of numbers from the array that add up to the target value, the result is then pushed in to the empty array
+initially declared.
+
+
+
+
+
+Problem 17
+
+
+
+
+
+
+
+Problem 18
+
+
+
+
+we have an array called products containing four objects, these objects tells us a mobile name and its corresponding price, then we use the sort method to rearrange the object in ascending order of price.
+
+
+
+
+
+
+Problem 19
+
+
+we have an array of people with their names and age, then using the array.filter method followed by an arrow function we are filtering out people who are 18 years or younger
+
+
+
+
+Problem 20
+
+
 
